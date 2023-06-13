@@ -1,0 +1,58 @@
+#id {
+    background-color: rgba(240, 255, 240);
+}
+h1 {
+    color: steelblue;
+    font-size: 60px;
+    text-align: center;
+}
+
+.lst {
+    color:  darkcyan;    
+    width: 800px;
+    font-size: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.imgs {
+    width: 100px;
+    /*display: auto;*/
+    margin-left: 550px;
+    margin-right: auto;
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400px;
+    font-stretch: 100%;
+    src: url(https://fonts.gstatic.com/s/opensans/v35/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4jaVIGxA.woff2) format('woff2');
+    unicode-range: U+0370-03FF;
+}
+  
+html {
+    font-family: "PT Sans", Roboto-black, Tahoma, sans-serif;
+}
+
+#my-id {
+    color: darkcyan;
+    font-size: 30px;
+    font-family: "PT Sans", 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Tahoma, sans-serif;
+    text-align: center;
+}
+
+
+button {
+    border-color: rgba(240, 255, 240);
+    background-color: rgba(240, 255, 240);
+    color: darkcyan;  
+    font-size: 25px;  
+    margin-left: 550px;
+    margin-bottom: 10px;  
+    display: grid;
+
+}
+
